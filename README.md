@@ -1,1 +1,1 @@
-# Pre-entrega-
+Pre entrega del trabajo de js.
